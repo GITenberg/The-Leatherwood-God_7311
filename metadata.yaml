@@ -1,5 +1,8 @@
 _repo: The-Leatherwood-God_7311
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -16,6 +19,8 @@ description: William Dean Howells frequently drew on his Midwestern childhood fo
   God tells the intriguing tale of how a charlatan named Joseph Dylks, claiming to
   be a messenger of God (or even God himself), exploited the pious townspeople, split
   their devout community in two, and then disappeared.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7311#The-Leatherwood-God
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
